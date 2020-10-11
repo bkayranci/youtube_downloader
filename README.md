@@ -1,9 +1,9 @@
 # Youtube-dl Rest
 
 ## USING
-http://localhost:8000/?url=https://www.youtube.com/watch?v=wz0_qJIbkco
+http://fastapiapp.herokuapp.com/?url=https://twitter.com/Mfutbolll/status/1315395121983225861
 
-http://localhost:8000/?url=https://www.youtube.com/watch?v=wz0_qJIbkco&download=false
+http://fastapiapp.herokuapp.com/?url=https://twitter.com/Mfutbolll/status/1315395121983225861&download=false
 
 ## INSTALLATION
 ```terminal
